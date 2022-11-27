@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home"
+        android:icon="@mipmap/h1_round"/>
+
+    <item
+        android:id="@+id/menu_course"
+        android:title="Course"
+        android:icon="@mipmap/h2_round"/>
+    <item
+        android:id="@+id/menu_song"
+        android:title="Song"
+        android:icon="@mipmap/h3_round"/>
+</menu>
